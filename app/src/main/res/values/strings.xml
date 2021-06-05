@@ -3,7 +3,9 @@
     <string name="title_form">Form Pengisian Data</string>
     <string name="title_confirm">Cek Kembali Isian Data</string>
     <string name="title_info"><b>Info</b></string>
+    <string name="title_success"><b>Berhasil Disimpan</b></string>
     <string name="desc_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="desc_success">Terima kasih, laporan Anda membantu kami dalam melakukan penanganan kasus secara tepat.</string>
     <string name="label_nik"><b>NIK</b></string>
     <string name="label_name"><b>Nama</b></string>
     <string name="label_date"><b>Tanggal Lahir</b></string>
@@ -25,6 +27,8 @@
     <string name="btn_ok"><b>OK</b></string>
     <string name="img_back">Back Button</string>
     <string name="img_separator">Separator</string>
+    <string name="img_scroller">Scroller</string>
+    <string name="img_illustration">Illustration</string>
 
 
 </resources>
