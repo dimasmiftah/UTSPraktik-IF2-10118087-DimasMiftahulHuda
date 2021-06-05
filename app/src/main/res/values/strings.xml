@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">UTSPraktik-IF2-10118087-Dimas Miftahul Huda</string>
+    <string name="title_form">Form Pengisian Data</string>
+    <string name="title_cek">Cek Kembali Isian Data</string>
+    <string name="title_info"><b>Info</b></string>
+    <string name="desc_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="label_nik"><b>NIK</b></string>
+    <string name="label_name"><b>Nama</b></string>
+    <string name="label_date"><b>Tanggal Lahir</b></string>
+    <string name="label_gender"><b>Jenis Kelamin</b></string>
+    <string name="label_relation"><b>Hubungan Dengan Anda</b></string>
+    <string name="value_nik">10118087</string>
+    <string name="value_name">Dimas Miftahul Huda</string>
+    <string name="value_date">1 Maret 2000</string>
+    <string name="value_gender_option1">Laki-laki</string>
+    <string name="value_gender_option2">Perempuan</string>
+    <string name="value_relation_option1">Orangtua</string>
+    <string name="value_relation_option2">Suami/Istri</string>
+    <string name="value_relation_option3">Anak</string>
+    <string name="value_relation_option4">Kerabat Lainnya</string>
+    <string name="required"><b>• Harus Diisi</b></string>
+    <string name="btn_next"><b>Selanjutnya</b></string>
+    <string name="btn_save"><b>Simpan</b></string>
+    <string name="btn_edit"><b>Ubah</b></string>
+    <string name="btn_ok"><b>OK</b></string>
+
+
 </resources>
