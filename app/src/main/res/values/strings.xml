@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">UTSPraktik-IF2-10118087-Dimas Miftahul Huda</string>
     <string name="title_form">Form Pengisian Data</string>
-    <string name="title_cek">Cek Kembali Isian Data</string>
+    <string name="title_confirm">Cek Kembali Isian Data</string>
     <string name="title_info"><b>Info</b></string>
     <string name="desc_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
     <string name="label_nik"><b>NIK</b></string>
@@ -23,6 +23,8 @@
     <string name="btn_save"><b>Simpan</b></string>
     <string name="btn_edit"><b>Ubah</b></string>
     <string name="btn_ok"><b>OK</b></string>
+    <string name="img_back">Back Button</string>
+    <string name="img_separator">Separator</string>
 
 
 </resources>

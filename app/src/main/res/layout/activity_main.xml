@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/white"
-            android:contentDescription="back button"
+            android:contentDescription="@string/img_back"
             android:padding="0dp"
             app:srcCompat="@drawable/back"
             tools:layout_editor_absoluteX="79dp"
@@ -300,6 +300,7 @@
         </LinearLayout>
 
         <Button
+            android:id="@+id/btnNext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/btn_next"

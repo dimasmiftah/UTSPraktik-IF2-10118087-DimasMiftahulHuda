@@ -2,7 +2,10 @@ package me.dimasmiftah.utspraktik_if2_10118087_dimasmiftahulhuda;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 /*
     Tanggal pengerjaan: Sabtu, 5 Juni 2021
@@ -17,5 +20,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Button btnNext = findViewById(R.id.btnNext);
+        btnNext.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent confirmActivity = new Intent(getApplicationContext(), ConfirmActivity.class);
+                startActivity(confirmActivity);
+            }
+        });
     }
 }
